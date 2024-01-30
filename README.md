@@ -1,5 +1,5 @@
 # Question-Answering-System-in-Telugu
-~Project done by [Sreehith Reddy  Gaddam](https://github.com/Sreehith128),[Shirish Addaganti](https://github.com/shirish-01),[Ganesh Dende](https://github.com/dende-ganesh)
+~Project done by[Shirish Addaganti](https://github.com/shirish-01), [Sreehith Reddy  Gaddam](https://github.com/Sreehith128),[Ganesh Dende](https://github.com/dende-ganesh)
 
 After thorough research across all the models of BERT, we have selected XLM-RoBERTa large trained on squad which is the best cross-lingual model compared to other models. After selecting the model, the next step is to import the model, tokenize and train the model with our custom dataset.
 
